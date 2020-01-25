@@ -39,6 +39,16 @@ Complete NumPy Masterclass Go from Zero to Hero in Numpy by Ashwin Pajankar.
 ```
 
 
+## Part 7: Statistical Function
+```
+1. np.median()
+2. np.average()
+3. np.mean()
+4. np.std()
+5. np.var()
+6. np.histogram()
+```
+
 ## Part 5: Array Manipulation Routines
 ```
 1. np.ravel()
@@ -59,3 +69,5 @@ Complete NumPy Masterclass Go from Zero to Hero in Numpy by Ashwin Pajankar.
 3. np.bitwise_xor()
 4. np.bitwise_not()
 ```
+
+
