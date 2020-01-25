@@ -4,7 +4,6 @@ Complete NumPy Masterclass Go from Zero to Hero in Numpy by Ashwin Pajankar.
 ## Part 1: Basic Numpy array
 1. Defining Arrays
 2. Printing array
-    Through printing & looping
 3. Accessing element in array
 4. Indexing/Slicing elements in array
 5. NumPy Ndarray Properties
@@ -12,7 +11,6 @@ Complete NumPy Masterclass Go from Zero to Hero in Numpy by Ashwin Pajankar.
 
 
 ## Part 2: Matrix creation routines
-Functions are: 
 ```
 1. np.empty()
 2. np.eye()
@@ -24,3 +22,9 @@ Functions are:
 8. np.tril()
 9. np.triu()
 ```
+
+## Part 3: Random Routines
+~~~
+1. np.random.randint()
+2. np.rand()
+~~~
