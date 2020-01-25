@@ -70,9 +70,90 @@ Complete NumPy Masterclass Go from Zero to Hero in Numpy by Ashwin Pajankar.
 5. np.var()
 6. np.histogram()
 ```
+
+
 ## Part 8: 1D Fast Fourier Transform(FFT)
 ```
 np.fft.fft()
 np.fft.fftfreq()
 ```
+
+
+## Part 9: Advanced FFT
+```
+1. np.mgrid[]
+2. np.fft.fft2()
+3. np.fft.fftn()
+4. np.meshgrid()
+5. np.random.uniform()
+6. np.fft.ifftn(n).real
+```
+
+## Part 10: Dot Product
+```
+1. np.dot()
+2. np.linalg.multi_dot()
+3. np.vdot()
+4. np.inner()
+5. np.linalg.qr()
+6. np.linalg.det()
+7. np.linalg.solve()
+```
+
+
+## Part 11: Trignomentric Functions
+```
+1. np.sin()
+2. np.cos()
+3. np.tan()
+4. np.sinh()
+5. np.cosh()
+6. np.tanh()
+7. np.exp()
+8. np.expm1()
+9. np.exp2()
+10. np.log()
+11. np.log10()
+12. np.log2()
+13. np.convolve()
+```
+
+## Part 12: Image Processing
+
+## Part 13: Numpy writing and reading files
+```
+1. np.save()
+2. np.load()
+3. np.loadtxt()
+```
+
+
+## Part 14: Set Operations
+```
+1. np.unique()
+2. np.in1d()
+3. np.intersect1d()
+4. np.setdiff1d()
+5. np.setxor1d()
+6. np.union1d()
+```
+
+
+## Part 15: Sorting with NumPy
+```
+1. np.sort()
+```
+
+
+## Part 16: Count Non Zero Element
+```
+1. np.count_nonzero()
+```
+
+
+
+
+
+
+
 
