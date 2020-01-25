@@ -71,3 +71,9 @@ Complete NumPy Masterclass Go from Zero to Hero in Numpy by Ashwin Pajankar.
 ```
 
 
+## Part 8: 1D Fast Fourier Transform(FFT)
+```
+np.fft.fft()
+np.fft.fftfreq()
+```
+
