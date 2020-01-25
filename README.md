@@ -24,7 +24,38 @@ Complete NumPy Masterclass Go from Zero to Hero in Numpy by Ashwin Pajankar.
 ```
 
 ## Part 3: Random Routines
-~~~
+```
 1. np.random.randint()
 2. np.rand()
-~~~
+```
+
+
+## Part 4: Matplotlib with NumPy
+```
+1. np.arange()
+2. np.linspace()
+3. np.logspace()
+4. np.geomspace()
+```
+
+
+## Part 5: Array Manipulation Routines
+```
+1. np.ravel()
+2. np.flatten()/flatten("C") & np.flatten("F")
+3. np.stack(), np.dstack(), np.hstack() & np.vstack()
+4. np.split(), np.dsplit(), np.hsplit() & np.vsplit()
+5. np.flip(), np.fliplr() & np.flipud()
+6. np.roll()
+7. np.rot90()
+8. np.reshape()
+```
+
+
+## Part 6: Bit Wise Operator
+```
+1. np.bitwise_and()
+2. np.bitwise_or()
+3. np.bitwise_xor()
+4. np.bitwise_not()
+```
