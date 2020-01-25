@@ -4,7 +4,7 @@ Complete NumPy Masterclass Go from Zero to Hero in Numpy by Ashwin Pajankar.
 ## Part 1: Basic Numpy array
 1. Defining Arrays
 2. Printing array
-> Through printing & looping
+    Through printing & looping
 3. Accessing element in array
 4. Indexing/Slicing elements in array
 5. NumPy Ndarray Properties
